@@ -1,4 +1,4 @@
-# ¡Saludos! Me llamo Jose Manuel 👋😄
+# ¡Saludos! Me llamo Jose Manuel 👋😄 [![CodeWars](https://www.codewars.com/users/Jomaroflo94/badges/small)](https://www.codewars.com/users/Jomaroflo94/badges/small)
 
 ### FullStack Software Engineer
 
@@ -6,23 +6,71 @@ Soy ingeniero de Software desde hace algo más de siete años. Aunque me gradué
 
 Desde mis comienzos, he ido especializándome poco a poco en los diferentes bloques del desarrollo de aplicaciones web, enfatizando la mayoría de mis conocimientos en la parte Backend y Cloud. Aun así, intento compaginar mi tiempo personal en estar actualizado y al tanto de los distintos avances de nuestro sector.
 
-Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras personas y, por supuesto, recibiendo la de otros. Siempre estoy abierto a nuevas conexiones y oportunidades, no dudes en contactarme si crees que puedo serte de ayuda!
+Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras personas y, por supuesto, recibiendo la de otros. Siempre estoy abierto a nuevas conexiones y oportunidades, no dudes en contactarme si crees que puedo serte de ayuda!.
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Jose_Manuel_Romero_Flores-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jomaroflo94/)
 </br>
+[![Email](https://img.shields.io/badge/Email-jomaroflo94@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jomaroflo94@gmail.com)
+</br>
+[![Web](https://img.shields.io/badge/Web-Jomaroflo94-6e56cf?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=101010)](https://jomaroflo94-portafolio.reflex.run/)
 
-[![CodeWars](https://www.codewars.com/users/Jomaroflo94/badges/large)](https://www.codewars.com/users/Jomaroflo94/badges/large)
+## Tecnologías
 
-<!--
-**Jomaroflo94/Jomaroflo94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💾 Bases de datos
 
-Here are some ideas to get you started:
+[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ CI/CD
+
+[![Devops](https://img.shields.io/badge/devops-%230078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white)](https://github.com/features/actions)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+### 📚 Frameworks, Plataformas y Librerías
+
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/es-es/)
+[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://docs.angular.lat/)
+[![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angularjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![Reflex](https://img.shields.io/badge/reflex-6e56cf?style=for-the-badge&logo=reflex&logoColor=white)](https://reflex.dev/)
+
+### ☁️ Hosting
+
+[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/es-es)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+
+### 💻 IDEs
+
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/es/)
+
+### 🤖 Inteligencia Artificial
+
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt/)
+
+### 🔠 Languages
+
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/es-es/languages/csharp)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/es-es/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+## Proyectos
+
+
+
+## Contacto
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Jose_Manuel_Romero_Flores-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jomaroflo94/)
+</br>
+[![Email](https://img.shields.io/badge/Email-jomaroflo94@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jomaroflo94@gmail.com)
+</br>
+[![Web](https://img.shields.io/badge/Web-Jomaroflo94-6e56cf?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=101010)](https://jomaroflo94-portafolio.reflex.run/)
