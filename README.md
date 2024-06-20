@@ -1,4 +1,4 @@
-# ¡Saludos! Me llamo Jose Manuel 👋😄 [![CodeWars](https://www.codewars.com/users/Jomaroflo94/badges/small)](https://www.codewars.com/users/Jomaroflo94/badges/small)
+# ¡Saludos! Me llamo Jose Manuel 👋😄 [![CodeWars](https://www.codewars.com/users/Jomaroflo94/badges/small)](https://www.codewars.com/users/Jomaroflo94)
 
 ### FullStack Software Engineer
 
