@@ -14,7 +14,7 @@ Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras p
 </br>
 [![Web](https://img.shields.io/badge/Web-Jomaroflo94-6e56cf?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=101010)](https://jomaroflo94-portafolio.reflex.run/)
 
-## Tecnologías
+# Tecnologías
 
 ### 🔠 Lenguajes de Programación
 
@@ -74,9 +74,9 @@ Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras p
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/es/)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Proyectos
+# Proyectos
 
-
+### BFF Identity Server (En proceso)
 
 ## Contacto
 
