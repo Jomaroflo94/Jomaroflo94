@@ -14,6 +14,8 @@ Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras p
 </br>
 [![Web](https://img.shields.io/badge/Web-Jomaroflo94-6e56cf?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=101010)](https://jomaroflo94-portafolio.reflex.run/)
 
+<!--| <img src="https://github-readme-stats.vercel.app/api?username=jomaroflo94&show_icons=true&theme=buefy" alt="flexbox" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomaroflo94&layout=compact&hide=html&theme=buefy" alt="jomaroflo94" /> |
+| ------------- | ------------- | -->
 # Tecnologías
 
 ### 🔠 Lenguajes de Programación
@@ -76,12 +78,8 @@ Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras p
 
 # Proyectos
 
-## BFF Identity Server (En proceso)
-
-## Portfolio Web
-![https://github.com/Jomaroflo94/Portafolio](./project_portfolio.png)
-
-Web responsive de portafolio profesional. Programado con **Python** haciendo uso del framework **Reflex** y desplegado de forma automática a través de **Github Actions(CI/CD)**.
+| <h2>**BFF Identity Server (En proceso)**</h2><a href="https://github.com/Jomaroflo94/IdentityServer"><img src="https://github.com/Jomaroflo94/Jomaroflo94/blob/master/work_in_progress.jpg" style="height: 100%; width:100%;"/></a> | <h2>**Portfolio Web**</h2><a href="https://github.com/Jomaroflo94/Portafolio"><img src="https://github.com/Jomaroflo94/Jomaroflo94/blob/master/project_portfolio.png" style="height: 100%; width:100%;"/></a> |
+| ------------- | ------------- |
 
 ## Contacto
 
