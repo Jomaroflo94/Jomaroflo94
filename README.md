@@ -76,7 +76,12 @@ Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras p
 
 # Proyectos
 
-### BFF Identity Server (En proceso)
+## BFF Identity Server (En proceso)
+
+## Portfolio Web
+![https://github.com/Jomaroflo94/Portafolio](./project_portfolio.png)
+
+Web responsive de portafolio profesional. Programado con **Python** haciendo uso del framework **Reflex** y desplegado de forma automática a través de **Github Actions(CI/CD)**.
 
 ## Contacto
 
