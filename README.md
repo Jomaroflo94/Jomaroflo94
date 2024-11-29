@@ -12,7 +12,7 @@ Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras p
 </br>
 [![Email](https://img.shields.io/badge/Email-jomaroflo94@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jomaroflo94@gmail.com)
 </br>
-[![Web](https://img.shields.io/badge/Web-Jomaroflo94-6e56cf?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=101010)](https://jomaroflo94-portafolio.reflex.run/)
+[![Web](https://img.shields.io/badge/Web-Jomaroflo94-6e56cf?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=101010)](https://jomaroflo94.github.io/Portafolio/)
 
 <!--| <img src="https://github-readme-stats.vercel.app/api?username=jomaroflo94&show_icons=true&theme=buefy" alt="flexbox" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomaroflo94&layout=compact&hide=html&theme=buefy" alt="jomaroflo94" /> |
 | ------------- | ------------- | -->
@@ -87,4 +87,4 @@ Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras p
 </br>
 [![Email](https://img.shields.io/badge/Email-jomaroflo94@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jomaroflo94@gmail.com)
 </br>
-[![Web](https://img.shields.io/badge/Web-Jomaroflo94-6e56cf?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=101010)](https://jomaroflo94-portafolio.reflex.run/)
+[![Web](https://img.shields.io/badge/Web-Jomaroflo94-6e56cf?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=101010)](https://jomaroflo94.github.io/Portafolio/)
