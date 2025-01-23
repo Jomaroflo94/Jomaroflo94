@@ -77,9 +77,12 @@ Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras p
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # Proyectos
-
-| <h2>**BFF Identity Server (En proceso)**</h2><a href="https://github.com/Jomaroflo94/IdentityServer"><img src="https://github.com/Jomaroflo94/Jomaroflo94/blob/master/work_in_progress.jpg" style="height: 100%; width:100%;"/></a> | <h2>**Portfolio Web**</h2><a href="https://github.com/Jomaroflo94/Portafolio"><img src="https://github.com/Jomaroflo94/Jomaroflo94/blob/master/project_portfolio.png" style="height: 100%; width:100%;"/></a> |
+| Descripción | Repositorio |
 | ------------- | ------------- |
+| <h2>My Cooking App</h2><br>**(En proceso)** Aplicación web personal para la gestión de recetas e inventario en cocina.<br><br> | [![My Cooking App](https://github.com/Jomaroflo94/Jomaroflo94/blob/master/work_in_progress.jpg)](https://github.com/Jomaroflo94/IdentityServer) |
+| <h2>BFF Identity Server</h2><br>**(En proceso)** Proveedor de identidad securizado con BFF a través de servidor proxy inverso.<br><br> | [![BFF Identity Server](https://github.com/Jomaroflo94/Jomaroflo94/blob/master/work_in_progress.jpg)](https://github.com/Jomaroflo94/IdentityServer) |
+| <h2>Portfolio Web</h2><br> Static Responsive web para un portafolio profesional<br><br> | [![Portfolio Web](https://github.com/Jomaroflo94/Jomaroflo94/blob/master/project_portfolio.png)](https://github.com/Jomaroflo94/Portafolio) |
+
 
 ## Contacto
 
