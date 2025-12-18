@@ -80,7 +80,7 @@ Me gustaría seguir creciendo en sector, transmitiendo mi conocimiento a otras p
 | Descripción | Repositorio |
 | ------------- | ------------- |
 | <h2>My Cooking App</h2><br>**(En proceso)** Aplicación web personal para la gestión de recetas e inventario en cocina.<br><br> | [![My Cooking App](https://github.com/Jomaroflo94/Jomaroflo94/blob/master/assets/work_in_progress.jpg)](https://github.com/Jomaroflo94/MyCookingRecipes) |
-| <h2>BFF Identity Server</h2><br>**(En proceso)** Proveedor de identidad securizado con BFF a través de servidor proxy inverso.<br><br> | [![BFF Identity Server](https://github.com/Jomaroflo94/Jomaroflo94/blob/master/assets/bff-identity.png)](https://github.com/Jomaroflo94/IdentityServer) |
+| <h2>BFF Identity Server</h2><br>Ejemplo básico de un Identity Provider (IDP) con Proxy BFF (Backend for Frontend) inverso implementado con . NET 8, Duende IdentityServer y React.<br><br> | [![BFF Identity Server](https://github.com/Jomaroflo94/Jomaroflo94/blob/master/assets/bff-identity.png)](https://github.com/Jomaroflo94/IdentityServer) |
 | <h2>Portfolio Web</h2><br> Static Responsive web para un portafolio profesional<br><br> | [![Portfolio Web](https://github.com/Jomaroflo94/Jomaroflo94/blob/master/assets/project_portfolio.png)](https://github.com/Jomaroflo94/Portafolio) |
 
 
